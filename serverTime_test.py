@@ -31,7 +31,7 @@ while True:
     # Check if the server time is 22:20
     if server_hour == 12 and server_minute == 1:
         # Execute your code here
-        print("Hello, it's 22:20!")
+        print("Hello, it's 12:02!")
         # Take screenshots, perform actions, etc.
         break
 
